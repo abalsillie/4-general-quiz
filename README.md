@@ -1,4 +1,4 @@
-# Password Generator
+# General Quiz
 
 ## Description
 
